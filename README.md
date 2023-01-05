@@ -5,8 +5,10 @@
 
 Here are some ideas to get you started:
 --> 
-- Master Thesis Student at TU Munich
-- Interested in software development, data engineering and cloud computing
+- Master Thesis Student in Data Engineering & Analytics at TU Munich.
+- Interested in software development, data engineering and cloud computing.
+- Bachelor's Degree in Computer Engineering and Mathematical Engineering at YTU.
+
 
 
 
