@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 --> Master Thesis Student at TU Munich
---> Software Developer
+    Software Developer
 
 
 
